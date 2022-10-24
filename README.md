@@ -21,7 +21,7 @@ Here is an example of a bullet list
     ```
 2. Run jar file
     ```shell
-    java -jar target/hillel.jar
+    java -jar target/{jar_name}.jar
    ```
 
 ## Contact
